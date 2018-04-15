@@ -2,7 +2,27 @@
 
 Aplicación de prueba para implementar Redux.
 
-## Modo de uso
+## Instalación
+Recomiendo iniciar desde cero sin instalar el repositorio para tratar de entender de mejor manera Redux. Sin embargo, Si deseas instalar el repositorio. Ingresa lo siguiente en tu terminal
+
+```
+  git clone https://github.com/hmontes/banco.git
+```
+
+y luego necesitas instalar los packetes
+
+```
+  npm install
+```
+
+Finalmente. Ejecutas el script
+
+```
+  npm start
+```
+
+
+## Modo de uso
 
 Seguir las instrucciones dadas más abajo. Sugiero revisar el codigo del repositorio para aclarar dudas.
 
