@@ -30,5 +30,6 @@ const mapStateToProps = (state) => {
     money: state.money.value
   }
 }
-
+// Primer parametro. Conecta los estados con el componente
+// Segundo Parametro. Conecta las acciones con el componente
 export default connect(mapStateToProps, { addMoney, removeMoney })(App);
